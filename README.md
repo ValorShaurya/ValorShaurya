@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Shaurya! 👋
 
-<!--
-**ValorShaurya/ValorShaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Class 11 Student | CBSE PCM + CS | Gorakhpur, India
+💻 Aspiring Android App Developer
+☕ Currently Learning: Java, Python
+🎯 Goal: Build and publish my first Android app
 
-Here are some ideas to get you started:
+## 🛠️ Languages & Tools
+- Java 
+- Python
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Studying
+- Class 11 PCM + Computer Science
+- JEE Preparation
+
+## 📫 Connect with me
+- 📍 Gorakhpur, India
