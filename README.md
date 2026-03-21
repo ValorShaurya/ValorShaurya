@@ -15,4 +15,4 @@
 - JEE Preparation
 
 ## 📫 Connect with me
-- 📍 Gorakhpur, India
+- 📍  India
